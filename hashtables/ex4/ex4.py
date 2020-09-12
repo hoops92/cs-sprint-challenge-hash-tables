@@ -2,7 +2,7 @@ def has_negatives(a):
     """
     Negative numbers
     """
-    # Your code here
+    # Code here
     # Create a list and cache to save negative values
     result = []
     my_dict = {}

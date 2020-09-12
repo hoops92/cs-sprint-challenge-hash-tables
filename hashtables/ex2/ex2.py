@@ -4,7 +4,7 @@ class Ticket:
         self.source = source
         self.destination = destination
 
-# Create cache
+# Create a cache
 cache = {}
 
 def reconstruct_trip(tickets, length):

@@ -18,7 +18,7 @@ def finder(files, queries):
         cache[f_type].append(f)
 
     # A cache with all possible last file paths and all paths that apply to that last part
-    # For loop thru our queries and if the query is in the cache, it adds the values of that key to our 
+    # For loop through our queries and if the query is in the cache, it adds the values of that key to our 
     # result list
     for q in queries:
         if q in cache:

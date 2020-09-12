@@ -2,7 +2,7 @@ def intersection(arrays):
     """
     Find intersection between different lists of integers
     """
-    # Create cache to save "seen" integers
+    # Create a cache to save "seen" integers
     cache = {}
     # Your code here
     # Get the total # of lists to look through
