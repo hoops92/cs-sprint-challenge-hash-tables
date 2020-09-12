@@ -2,7 +2,7 @@ def get_indices_of_item_weights(weights, length, limit):
     """
     Finds two weights and adds the sum of weights to reach a weight limit.
     """
-    # Your code here
+    # Code here
     # Create a cache
     cache = {}
 
